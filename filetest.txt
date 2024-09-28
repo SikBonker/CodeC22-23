@@ -1,0 +1,5 @@
+
+-----THONG TIN SINH VIEN----
+ID 	 Ten 		 Luong
+123 	 123 		 123 
+555 	 555 		 555 
